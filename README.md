@@ -1,4 +1,6 @@
-<center><img src="https://www.icegif.com/wp-content/uploads/2023/07/icegif-95.gif"></center>
+<p align="center">
+<img src="https://www.icegif.com/wp-content/uploads/2023/07/icegif-95.gif">
+</p>
 <br><br>
 <a href="https://instagram.com/hafidzish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafidzish" height="30" width="40" /></a>
 </p>
